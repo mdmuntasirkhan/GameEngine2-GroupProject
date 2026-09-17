@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\mdmun\\Documents\\GitHub\\GameEngine2-GroupProject\\MuntiplayerHorrorIP\\Source\\MuntiplayerHorrorIP\\MuntiplayerHorrorIP.Build.cs",
+		"C:\\Users\\mdmun\\Documents\\GitHub\\GameEngine2-GroupProject\\MuntiplayerHorrorIP\\Source\\MuntiplayerHorrorIP.Target.cs",
+		"C:\\Users\\mdmun\\Documents\\GitHub\\GameEngine2-GroupProject\\MuntiplayerHorrorIP\\Source\\MuntiplayerHorrorIPEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

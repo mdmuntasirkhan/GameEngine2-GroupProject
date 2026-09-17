@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mdmun\\documents\\github\\gameengine2-groupproject\\muntiplayerhorrorip\\source\\muntiplayerhorrorip\\muntiplayerhorroripgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mdmun\\documents\\github\\gameengine2-groupproject\\muntiplayerhorrorip\\intermediate\\build\\win64\\x64\\muntiplayerhorroripeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\mdmun\\documents\\github\\gameengine2-groupproject\\muntiplayerhorrorip\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\muntiplayerhorrorip\\definitions.muntiplayerhorrorip.h",
+            "c:\\users\\mdmun\\documents\\github\\gameengine2-groupproject\\muntiplayerhorrorip\\source\\muntiplayerhorrorip\\muntiplayerhorroripgamemode.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\mdmun\\documents\\github\\gameengine2-groupproject\\muntiplayerhorrorip\\intermediate\\build\\win64\\unrealeditor\\inc\\muntiplayerhorrorip\\uht\\muntiplayerhorroripgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
