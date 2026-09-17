@@ -1,2 +1,3 @@
-2026/09/17-18:06:01.657 8198 Creating DB C:\Users\mdmun\Documents\GitHub\GameEngine2-GroupProject\MuntiplayerHorrorIP\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/09/17-18:06:01.667 8198 Reusing MANIFEST C:\Users\mdmun\Documents\GitHub\GameEngine2-GroupProject\MuntiplayerHorrorIP\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/09/17-18:33:52.556 6a78 Reusing MANIFEST C:\Users\mdmun\Documents\GitHub\GameEngine2-GroupProject\MuntiplayerHorrorIP\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/09/17-18:33:52.558 6a78 Recovering log #3
+2026/09/17-18:33:52.558 6a78 Reusing old log C:\Users\mdmun\Documents\GitHub\GameEngine2-GroupProject\MuntiplayerHorrorIP\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
